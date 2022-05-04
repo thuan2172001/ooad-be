@@ -1,0 +1,10 @@
+id,chip_id,name,brand,owner,agent,vehicle_type,status,image
+1,CHIP_1,Siêu cơ chiến hạm RT15, Honda,,1,Bán tự động,Inactive,https://media.vov.vn/uploaded/ql0rp46pywc/2018_09_18/tiem_kich_hang_dau_1_vysq.jpg
+2,CHIP_2,Siêu chiến hạm RM1, Yamaha,2,1,Bán tự động,Active,https://media.vov.vn/sites/default/files/styles/front_large/public/images/may_bay_Osprey_9_LFGI.jpg
+3,CHIP_3,Tiêm kích tàng hình T4, Toshiba,3,1,Tự động,Maintain,https://media.vov.vn/sites/default/files/styles/front_large/public/images/3_truc_thang_AH6_8_QPAB.jpg
+4,CHIP_4,Siêu cơ chiến hạm RT15, Honda,6,1,Tự động,Maintain,https://media.vov.vn/sites/default/files/styles/front_large/public/2022-04/f-35_my.jpg
+5,CHIP_5,Siêu cơ chiến hạm RT15, Honda,4,1,Tự động,Active,https://media.vov.vn/uploaded/ql0rp46pywc/2018_09_18/tiem_kich_hang_dau_1_vysq.jpg
+6,CHIP_6,Siêu chiến hạm RM2, Yamaha,2,1,Tự động,Maintain,https://media.vov.vn/sites/default/files/styles/front_large/public/2022-04/f-35_my.jpg
+7,CHIP_7,Siêu cơ chiến hạm RT15, Honda,5,1,Tự động,Active,https://media.vov.vn/uploaded/ql0rp46pywc/2018_09_18/tiem_kich_hang_dau_1_vysq.jpg
+8,CHIP_8,Tiêm kích tàng hình T6, Toshiba,4,1,Tự động,Active,https://media.vov.vn/sites/default/files/styles/front_large/public/images/3_truc_thang_AH6_8_QPAB.jpg
+9,CHIP_9,Siêu cơ chiến hạm RT15, Honda,2,1,Bán tự động,Active,https://media.vov.vn/uploaded/ql0rp46pywc/2018_09_18/tiem_kich_hang_dau_1_vysq.jpg
